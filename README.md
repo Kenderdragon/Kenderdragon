@@ -1,7 +1,7 @@
 # Giacomo Bonomi, he/him 
 
 ### Advanced Computer Science Student (Honours) - Monash University
-Graduate of 2027
+*Expected Graduation 2027*
 
  - CCA Committee Member
  - IBL Candidate (Expected Placement 2025)
