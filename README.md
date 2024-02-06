@@ -9,7 +9,7 @@
 Currently Focusing on Systems/Database engineering.
 
 **Media Links**
-[Leetcode]([https://link-url-here.org](https://leetcode.com/giacomobonomi/))
+[Leetcode](https://leetcode.com/giacomobonomi/))
 <!--
 **Kenderdragon/Kenderdragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
