@@ -3,7 +3,7 @@
 ### Advanced Computer Science Student (Honours) - Monash University
 *Expected Graduation 2027*
 
- - CCA Committee Member
+ - CCA (Commerce and Computer Science) Committee Member
  - IBL Candidate (Expected Placement 2025)
 
 Currently Focusing on Systems/Database engineering.
