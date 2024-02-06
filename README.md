@@ -11,6 +11,7 @@ Currently Focusing on Systems/Database engineering.
 **Media Links**
 
 [My Leetcode](https://leetcode.com/giacomobonomi/)
+
 [My Linkedin](https://www.linkedin.com/in/giacomo-bonomi-a74105200/)
 
 <!--
