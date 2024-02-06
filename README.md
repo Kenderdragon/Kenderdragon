@@ -1,12 +1,12 @@
-### Giacomo Bonomi, he/him 
+## Giacomo Bonomi, he/him 
 
-## Advanced Computer Science Student (Honours) - Monash University
+# Advanced Computer Science Student (Honours) - Monash University
 Graduate of 2027
 
  - CCA Committee Member
  - IBL Candidate (Expected Placement 2025)
 
-# Currently Focusing on Systems/Database engineering.
+### Currently Focusing on Systems/Database engineering.
 
 <!--
 **Kenderdragon/Kenderdragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
