@@ -5,7 +5,7 @@
 
  - IBL Candidate (Expected Placement 2025)
 
-Currently Focusing on Systems/Database engineering.
+Currently Focusing on Systems engineering.
 
 **Media Links**
 
