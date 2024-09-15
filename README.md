@@ -3,7 +3,7 @@
 ### Advanced Computer Science Student (Honours) - Monash University
 *Expected Graduation 2027*
 
- - IBL Candidate (Expected Placement 2025)
+ - IBL Placement 2025 Semester 1
 
 Currently Focusing on Systems Engineering / Cybersecurity.
 
