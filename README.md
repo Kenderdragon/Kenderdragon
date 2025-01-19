@@ -1,11 +1,9 @@
 # Giacomo Bonomi, he/him 
 
 ### Advanced Computer Science Student (Honours) - Monash University
-*Expected Graduation 2027*
+*Expected Graduation 2027
 
- - IBL Placement 2025 Semester 1
-
-Currently Focusing on Systems Engineering / Cybersecurity.
+Open to all Work
 
 **Media Links**
 
