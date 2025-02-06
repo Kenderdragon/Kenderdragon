@@ -1,9 +1,8 @@
 # Giacomo Bonomi, he/him 
 
 ### Advanced Computer Science Student (Honours) - Monash University
-*Expected Graduation 2027
+Expected Graduation 2027
 
-Open to all Work
 
 **Media Links**
 
